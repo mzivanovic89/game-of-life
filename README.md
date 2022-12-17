@@ -1,6 +1,6 @@
 # Game Of Life
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). \
 To learn more about Conway's Game of Life, visit [link](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
 ## Run
